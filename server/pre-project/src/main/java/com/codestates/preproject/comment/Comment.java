@@ -1,5 +1,6 @@
 package com.codestates.preproject.comment;
 
+import com.codestates.preproject.article.Article;
 import lombok.*;
 
 import javax.persistence.*;
@@ -9,23 +10,26 @@ import javax.persistence.*;
 @ToString
 @AllArgsConstructor
 @NoArgsConstructor
-public class CommentEntity {
+public class Comment {
 
     @Id
+    @Column(name = "comment_id")
     @GeneratedValue(strategy = GenerationType.IDENTITY)
-    private Long commentId;
+    private Long id;
 
-//    @ManyToOne  //답변이 n 글이 1
-//    @JoinColumn(name = "article_id")
-//    private Article article;
+    @ManyToOne
+    @JoinColumn(name = "article_id")
+    private Article article;
 
     @Column
     private String content;
 
-    @Column
+    @Column(name = "user_name")
     private String userName;
 
+    @Column(name = "create_at")
     private String createDate;
 
+    @Column
     private int vote;
 }
