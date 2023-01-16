@@ -88,7 +88,7 @@ test|테스트 코드 수정에 대한 커밋
 
 계정복구|글수정|댓글수정
 ---|---|---|
-<img width="1440" alt="이메일 찾기" src="https://user-images.githubusercontent.com/107919949/200347956-b987feb2-5056-4c16-a1e1-953d3ef57467.png">|<img width="1440" alt="글수정" src="https://user-images.githubusercontent.com/107919949/200348059-4d23c904-699f-4b9b-aa03-ac4cacb65f7d.png">
+<img width="1440" alt="이메일 찾기" src="https://user-images.githubusercontent.com/107919949/200347956-b987feb2-5056-4c16-a1e1-953d3ef57467.png">|<img width="1440" alt="글수정" src="https://user-images.githubusercontent.com/107919949/200348059-4d23c904-699f-4b9b-aa03-ac4cacb65f7d.png">|<img width="1440" alt="글수정" src="https://user-images.githubusercontent.com/107919949/200348059-4d23c904-699f-4b9b-aa03-ac4cacb65f7d.png">
 
 
 글작성|글목록|글상세
