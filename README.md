@@ -88,12 +88,12 @@ test|테스트 코드 수정에 대한 커밋
 
 계정복구|글수정|댓글수정
 ---|---|---|
-<img width="1440" alt="이메일 찾기" src="https://user-images.githubusercontent.com/107919949/200347956-b987feb2-5056-4c16-a1e1-953d3ef57467.png">|<img width="1440" alt="글수정" src="https://user-images.githubusercontent.com/107919949/200348059-4d23c904-699f-4b9b-aa03-ac4cacb65f7d.png">|<img width="1440" alt="글수정" src="https://user-images.githubusercontent.com/107919949/200348059-4d23c904-699f-4b9b-aa03-ac4cacb65f7d.png">
+<img width="1440" alt="이메일 찾기" src="https://user-images.githubusercontent.com/107919949/200347956-b987feb2-5056-4c16-a1e1-953d3ef57467.png">|<img width="1440" alt="글수정" src="https://user-images.githubusercontent.com/74370531/213601916-571dad43-bc66-4dfa-a1e8-ef502035230d.png">|<img width="1440" alt="댓글수정" src="https://user-images.githubusercontent.com/74370531/213602008-28d09967-3947-4322-bfb7-456b42135533.png">
 
 
 글작성|글목록|글상세
 ---|---|---|
-<img width="1440" alt="글작성" src="https://user-images.githubusercontent.com/107919949/200345916-0c5467d0-5916-415a-a81e-412eb255be32.png">|<img width="1440" alt="글목록" src="https://user-images.githubusercontent.com/107919949/200345949-89687be4-f770-4800-b588-ce27f5b01c6b.png">|<img width="1440" alt="글상세" src="https://user-images.githubusercontent.com/107919949/200345999-4b63a273-f3b9-45f7-aed2-4b7eb1b2c0e5.png">
+<img width="1440" alt="글작성" src="https://user-images.githubusercontent.com/107919949/200345916-0c5467d0-5916-415a-a81e-412eb255be32.png">|<img width="1440" alt="글목록" src="https://user-images.githubusercontent.com/107919949/200345949-89687be4-f770-4800-b588-ce27f5b01c6b.png">|<img width="1440" alt="글상세" src="https://user-images.githubusercontent.com/74370531/213601804-0e5341d2-1c5e-4f18-9e99-3fb194d66ded.png">
 
 
 Tag|Users|MyPage
